@@ -20,6 +20,16 @@
 
 ---
 
+## Demo:
+
+<p align="center">
+  <img src="dems/demo_gif.gif" alt="demo of proj" width="800">
+  <br>
+  <em>Demonstration of the app</em>
+</p>
+
+---
+
 ## 📌 Overview
 
 **Cinema Booking System** is a backend service written in Go for handling cinema seat reservations.
